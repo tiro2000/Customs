@@ -1,0 +1,1035 @@
+{
+	"questions": [{
+			"question": "How can a client register in Dubai customs?",
+			"answer": "Any business licensed by a competent Authority in the UAE or in the GCC States may register their business with Dubai Customs using the online services through Dubai Trade Portal www.dubaitrade.ae. The client needs to specify the type of business that they operate which must match with the activities of the license."
+		},
+		{
+			"question": "What are the types of licenses and issuing authorities?",
+			"answer": "The types of Licenses are classified into Commercial, Industrial, Professional, Intelaq, Free Zone and Government Notification."
+		},
+		{
+			"question": "What is the time limit for document submission?",
+			"answer": "The Declarations and the attachments must be submitted to the designated Customs Office within 14 days from the date of processing the declaration. A late fee will be imposed for delays, and further administrative actions and fines may be taken if the documents are not submitted within 90 days."
+		},
+		{
+			"question": "Where can documents be submitted?",
+			"answer": "The Customs Offices for Documents submission are designated in accordance with the cargo channel and Customs locations. More details are available in Appendix J."
+		},
+		{
+			"question": "What is e-Archival of Customs Declarations?",
+			"answer": "Dubai Customs keeps original copies of Customs Declarations and their attachments which are archived in e-Archive System. Clients may request to retrieve the copies of the Documents after submitting the original copies to Customs through the e-Archive system."
+		},
+		{
+			"question": "What are Customs Procedures and Types of Declarations?",
+			"answer": "A Declarant must specify the regime type of the Declaration while submitting for clearance. The regime types in Declarations include: Import, Export, Transit, Temporary Admission, and Transfer."
+		},
+		{
+			"question": "What is Importation?",
+			"answer": "It's the Process of Importing goods into Dubai or other United Arab Emirates."
+		},
+		{
+			"question": "What Declaration Types are associated with Importation?",
+			"answer": "The types include: Import to Local from ROW, Import to Local from FZ, Import to Local from CW, Import to Local from GCC, Import for Re Export to Local from ROW, Import for Re Export to Local from FZ, Import for Re Export to Local from CW, Import to CW from ROW, Import to CW from FZ, Import to CW from Local, and Import after Temporary Admission."
+		},
+		{
+			"question": "What are the required documents for Import to Local from Rest of World?",
+			"answer": "The required documents include Master Airway Bill or House Airway Bill for Air channel, Master Bill Of Lading or House Bill Of Lading for Sea Channel, Commercial Invoice, Certificate of Origin, Packing List, Delivery Order (for Sea), and Permits wherever applicable."
+		},
+		{
+			"question": "What are the required documents for Import to Local from FZ Declaration?",
+			"answer": "The required documents include Delivery Advice, Invoice, Packing List, and Permit for Restricted Goods (If any) from competent authority."
+		},
+		{
+			"question": "What are the required documents for Import to Local from CW Declaration?",
+			"answer": "The required documents include Invoice and Packing list."
+		},
+		{
+			"question": "What are the required documents for Import to Local from GCC?",
+			"answer": "The required documents include Delivery Order (for Sea Channel), Master Airway Bill or House Airway Bill for Air channel, Master Bill Of Lading or House Bill Of Lading for Sea Channel, Land Manifest or Truck way bill for Land Channel, Commercial Invoice, Packing List, and Statistical Export Bill cleared from an exporting country of GCC with the endorsement of “Makasa Claim Number (MCN)” or “Makasa Stamp” in the case of duty paid goods are imported."
+		},
+
+		{
+			"question": "What is Import for Re Export to Local from ROW?",
+			"answer": "Goods can be imported with the intention of re-exporting them as a whole or partially to another country. A Deposit or Guarantee equivalent to the applicable tariff amount on the goods shall be secured in lieu of Customs Duty. For this procedure, the Declaration Type “Import for Re Export to Local from ROW” needs to be cleared."
+		},
+		{
+			"question": "What are the Required Documents for Import for Re Export to Local from ROW?",
+			"answer": "The required documents include Master Airway Bill or House Airway Bill for Air Channel, Master Bill Of Lading or House Bill Of Lading for Sea Channel, Commercial Invoice, Certificate of Origin, Packing List, and Delivery Order."
+		},
+		{
+			"question": "What is Import for Re-export to Local from FZ?",
+			"answer": "An Importer in U.A.E can import goods from FZ to Local for the purpose of Re-Exporting them to Rest of the World (ROW) other than GCC States. The customs duties levied on goods being imported under such procedure shall be secured by Standing Bank Guarantee or deposit."
+		},
+		{
+			"question": "What are the Required Documents for Import for Re-export to Local from FZ?",
+			"answer": "The required documents include Delivery Advice, Invoice, Packing List, and Permit for Restricted Goods (if any) from competent authority."
+		},
+		{
+			"question": "What is Import for Re-export to Local from CW?",
+			"answer": "The goods admitted into a Customs Warehouse may be imported to Local for the purpose of Re-Exporting them to Rest of the World (ROW) other than GCC States. The customs Duties levied on goods being imported under such procedure shall be secured by Standing Bank Guarantee or Deposit."
+		},
+		{
+			"question": "What are the Required Documents for Import for Re-export to Local from CW?",
+			"answer": "The required documents include Invoice and Packing List."
+		},
+		{
+			"question": "What is Import to CW from ROW?",
+			"answer": "A licensed customs warehouse owner can import goods into the warehouse on deferred payment of duty until the goods are taken out for local consumption."
+		},
+		{
+			"question": "What are the Required Documents for Import to CW from ROW?",
+			"answer": "The required documents include Master Airway Bill or House Airway Bill for Air Channel, Master Bill Of Lading or House Bill Of Lading for Sea Channel, Commercial Invoice, Certificate of Origin, Packing List, Delivery Order (For Sea), and Permits wherever applicable."
+		},
+		{
+			"question": "What is Import to CW from FZ?",
+			"answer": "Goods can be imported into a Customs Warehouse from a Free Zone located in Dubai by clearing this Declaration. Declaration must be submitted by a Customs Warehouse Licensee being the Importer of the goods."
+		},
+		{
+			"question": "What are the Required Documents for Import to CW from FZ?",
+			"answer": "The required documents include Delivery Advice, Invoice, Packing List, and Permit for Restricted Goods (If any) from the competent authority."
+		},
+		{
+			"question": "What is Import to CW from Local (after Temporary Admission)?",
+			"answer": "The goods admitted temporarily into local from CW on certain reasons such as exhibition, repair and return, projects etc. For a specific period of time can be re-imported to CW within the permitted period."
+		},
+		{
+			"question": "What are the Required Documents for Import to CW from Local?",
+			"answer": "The required documents include Copy of Temporary Admission Bill, Invoice, and Packing List."
+		},
+		{
+			"question": "What is Import after Temporary Admission?",
+			"answer": "The status of the goods temporarily admitted shall be terminated upon the expiry of the permitted period. Goods can be consumed for local use after paying the applicable Customs Duty and Fees under Import Procedure. All other rules of Import procedure are applicable to the clearance of the good."
+		},
+		{
+			"question": "What is Export from Local to ROW?",
+			"answer": "For exportation of local goods to a country of ROW other than a GCC state the declaration type 'Export from Local to ROW' is required to be cleared."
+		},
+		{
+			"question": "What are the Required Documents for Export from Local to ROW?",
+			"answer": "The required documents include Export Invoice, Packing List, and Export Permit from a controlling authority (applicable only to restricted exports)."
+		},
+		{
+			"question": "What is Export from Local to Dubai FZ?",
+			"answer": "This Declaration is for exporting goods from U.A.E local market to a Free Zone in Dubai. The exporter or his broker can submit this declaration."
+		},
+		{
+			"question": "What are the Required Documents for Export from Local to Dubai FZ?",
+			"answer": "The required documents include Export Invoice and Packing List."
+		},
+		{
+			"question": "What is Export from Local to GCC (statistical export)?",
+			"answer": "Any foreign goods previously imported to local from ROW can be exported to another GCC state on statistical Export Declaration. Declarant can avoid repeated payment of Duty to the Customs Office of destination of GCC state provided that the statistical export declaration carries MAKAS stamp."
+		},
+		{
+			"question": "What are the Required Documents for Export from Local to GCC?",
+			"answer": "The required documents include Export Invoice, Packing List, and Copy of Import Declaration (for Makasa Process)."
+		},
+		{
+			"question": "What is Export from CW to ROW?",
+			"answer": "The goods admitted into a Customs Warehouse may be exported to any of the countries in ROW. Export Customs procedure can be completed by clearing the declaration type 'Export from CW to ROW'."
+		},
+		{
+			"question": "What are the Required Documents for Export from CW to ROW?",
+			"answer": "The required documents include Export Invoice and Packing List."
+		},
+		{
+			"question": "What is Export from CW to FZ?",
+			"answer": "The foreign goods may be exported from a Customs Warehouse to a Free Zone in Dubai subject to the applicable export restrictions. The Exporter must complete the required Customs Procedure to admit the goods into Free zone."
+		},
+		{
+			"question": "What are the Required Documents for Export from CW to FZ?",
+			"answer": "The required documents include Export Invoice and Packing List."
+		},
+		{
+			"question": "What is Re Export to ROW (after import for re- export)?",
+			"answer": "The foreign goods previously imported on declaration types of Import for Re- export can be re-exported to ROW other than GCC states by clearing this declaration. Customs inspection and exit certification shall be required to claim the refund of security deposit or guarantee paid against the Import for Re-Export Declaration."
+		},
+		{
+			"question": "What are the Required Documents for Re Export to ROW?",
+			"answer": "The required documents include Export Invoice and Packing List."
+		},
+		{
+			"question": "What is Re Export to FZ (after Import for Re Export)?",
+			"answer": "The foreign goods previously imported on declaration types of Import for Re- export can be re-exported to FZ by clearing this Declaration. Customs inspection and exit certification shall be required to claim the refund of security deposit or guarantee paid against the Import for Re-Export Declaration."
+		},
+		{
+			"question": "What are the Required Documents for Re Export to FZ?",
+			"answer": "The required documents include Export Invoice and Packing List."
+		},
+		{
+			"question": "What is Return to ROW after Temporary Admission?",
+			"answer": "The goods brought on Temporary Admission must be returned to ROW within the stipulated time period. In case of any extension is required on permitted time period, Customs approval must be obtained prior to the expiry of the time limit."
+		},
+		{
+			"question": "What are the Required Documents for Return to ROW after Temporary Admission?",
+			"answer": "The required documents include Export Invoice and Packing List."
+		},
+		{
+			"question": "What is Temporary Export from Local to ROW?",
+			"answer": "This declaration can be cleared for the goods to be exported on temporary basis for the purposes conducting Exhibition, Completing any Projects, Repairing or Servicing, Processing etc. The Exporter should complete the Customs inspections prior to exporting and while re-importing the Goods to local as well."
+		},
+		{
+			"question": "What are the Required Documents for Temporary Export from Local to ROW?",
+			"answer": "The required documents include Export Invoice and Packing List."
+		},
+		{
+			"question": "What is Temporary Export from Local to FZ?",
+			"answer": "This declaration can be cleared for the goods to be exported on temporary basis from local to Free Zone for the purposes of Repairing or Servicing, Reconditioning, Processing etc. The Exporter should complete the Customs inspections prior to exporting and while re-importing the Goods to local as well."
+		},
+		{
+			"question": "What are the Required Documents for Temporary Export from Local to FZ?",
+			"answer": "The required documents include Export Invoice and Packing List."
+		},
+		{
+			"question": "What is Transit?",
+			"answer": "Goods destined to elsewhere in the rest of the world but landing in Dubai may be moved to the destination under transit procedure. Customs typically clear such transit movements against payment of deposits or under guarantees and may take additional guarantees if necessary."
+		},
+		{
+			"question": "What are Transit types?",
+			"answer": "Transit types include Transit (ROW to ROW), FZ Transit In, FZ Transit Out, FZ Transit In from GCC and other Emirates FZ and GCC Local Market, and FZ Transit between Dubai based FZ."
+		},
+		{
+			"question": "What is Transit (ROW to ROW)?",
+			"answer": "The goods in-Transit from one country of ROW to another country of ROW can be transported through Dubai Customs territory under Customs control. The permitted period of transit is 30 days from the date of clearance of the transit declaration."
+		},
+		{
+			"question": "What are the Required Documents for Transit (ROW to ROW)?",
+			"answer": "The required documents include Copy of Transport Document and Delivery order."
+		},
+		{
+			"question": "What is FZ Transit In?",
+			"answer": "The foreign goods originated from any country may be brought into the free zones without being subject to customs duties or taxes. The owner of the goods in the Documents shall be a Free Zone Licensee."
+		},
+		{
+			"question": "What are the Required Documents for FZ Transit In?",
+			"answer": "The required documents include Master Airway Bill/House Airway Bill for Air channel, Master Bill Of Lading/House Bill Of Lading for Sea Channel, Commercial Invoice, Certificate of Origin, Packing List, and Delivery Order."
+		},
+		{
+			"question": "What is FZ Transit Out?",
+			"answer": "Export of goods stored in the free zone to the rest of the world is cleared on this declaration against deposits which is refunded on production of proof of export. The exporter must submit the proof of export failing which customs will charge a penalty of %10 of the value of goods."
+		},
+		{
+			"question": "What are the Required Documents for FZ Transit Out?",
+			"answer": "The required documents include Delivery Advice, Export Invoice, and Packing List."
+		},
+		{
+			"question": "What is FZ Transit In from GCC and other Emirates FZ and GCC Local Market?",
+			"answer": "The goods from a GCC state or other emirate or local market may be brought into the free zones without being subject to customs duties or taxes. The owner of the goods in the Documents shall be a Free Zone Licensee."
+		},
+		{
+			"question": "What are the Required Documents for FZ Transit In from GCC and other Emirates FZ and GCC Local Market?",
+			"answer": "The required documents include Master Airway Bill/House Airway Bill for Air channel, Master Bill Of Lading/House Bill Of Lading for Sea Channel, Statistical Export Declaration, Commercial Invoice, Certificate of Origin, Packing List, and Delivery Order."
+		},
+		{
+			"question": "What is FZ Transit between Dubai based FZ?",
+			"answer": "Goods stored and owned by a free zone client in a free zone may be sold to another client located in different free zone. The exporter or his broker can submit the declaration, which needs to be acknowledged by the receiver being the importer."
+		},
+		{
+			"question": "What are the Required Documents for FZ Transit between Dubai based FZ?",
+			"answer": "The required documents include Delivery Advice, Export Invoice, and Packing List."
+		},
+		{
+			"question": "What is Temporary Admission?",
+			"answer": "Under this customs procedure the goods can be admitted temporarily for a specific purpose for a definite period of time. Temporary Admission Regime is classified into the following Declaration types: Temporary Admission from ROW to Local, Temporary Admission from FZ to Local, Temporary Admission from CW to Local."
+		},
+		{
+			"question": "What is Temporary Admission from ROW to Local?",
+			"answer": "The goods brought from ROW for Exhibition, Projects, Processing, Repair, Refilling etc. can be cleared on above Declaration Type. The customs duties on the goods shall be suspended and can be cleared on a Standing Guarantee or Deposit equivalent to the payable customs duties."
+		},
+		{
+			"question": "What are the Required Documents for Temporary Admission from ROW to Local?",
+			"answer": "The required documents include Master Airway Bill/House Airway Bill for Air channel, Master Bill Of Lading/House Bill Of Lading for Sea Channel, Commercial Invoice, Certificate of Origin, Packing List, and Delivery Order."
+		},
+		{
+			"question": "What is Temporary Admission from FZ to Local?",
+			"answer": "The goods from Free Zone can be brought for the purposes laid down in Customs Policy- 33 on a standing guarantee or deposit equivalent to payable customs duties on temporary basis. This process can be completed by clearing the above Declaration Type. Declaration must be submitted by the Free Zone Licensee by specifying the period of temporary admission."
+		},
+		{
+			"question": "What are the Required Documents for Temporary Admission from FZ to Local?",
+			"answer": "The required documents include Delivery Advice, Invoice, Packing List, and Permit for Restricted Goods (If any) from competent authority."
+		},
+		{
+			"question": "What is Temporary Admission from CW to Local?",
+			"answer": "The goods from a Customs Warehouse can be brought for the purposes laid down in Customs Policy- 33 on a standing guarantee or deposit equivalent to payable customs duties on temporary basis. This process can be completed by clearing the above Declaration Type. Declaration must be submitted by the Customs Warehouse Licensee or a local Importer by specifying the period of temporary admission."
+		},
+		{
+			"question": "What are the Required Documents for Temporary Admission from CW to Local?",
+			"answer": "The required documents include Invoice and Packing List."
+		},
+		{
+			"question": "What is Transfer of Goods?",
+			"answer": "The goods admitted into Customs Warehouse or Free Zones may be transferred from one to another. The available types of Declarations for clearing various types of transfer of goods include Transfer of Cargo by Dubai based CW and Transfer within a FZ."
+		},
+		{
+			"question": "What is Transfer of Cargo by Dubai based CW?",
+			"answer": "The goods admitted into one Customs Warehouse may be transferred to another by clearing the above declaration. The exporter or his agent can submit the declaration. However, the receiver needs to acknowledge the declaration through the acknowledgement service in Dubai trade."
+		},
+		{
+			"question": "What is Transfer within a FZ?",
+			"answer": "Goods stored by a free zone client in a free zone may be sold to another client in the same free zone for the above declaration needs to be processed. The importer or his broker can submit the declaration. However, the declaration needs to be acknowledged by the receiver through the acknowledgement service in Dubai trade."
+		},
+		{
+			"question": "What is Cargo Transfer from CTO to CH (Same Location)?",
+			"answer": "Freight Forwarders Agents and Cargo Handlers who bring in consolidated cargo can transfer the consolidated cargo from the terminal operator to their warehouse inside the same port by clearing this declaration. No deposit shall be necessary. However, the terminal operator needs to send the release message to customs and the receiver needs to send the receipt message."
+		},
+		{
+			"question": "What is Cargo Transfer from CTO to CH (Different Locations)?",
+			"answer": "Freight Forwarders and Cargo Handlers who bring in consolidated cargo can transfer the consolidated cargo from the terminal operator to their warehouse in another Dubai port by clearing this declaration. A deposit shall be necessary. Moreover, the terminal operator needs to send the release message to customs and the receiver needs to send the receipt message."
+		},
+		{
+			"question": "What is Cargo Transfer from CH to CH (Same Location)?",
+			"answer": "A consolidated cargo transferred from the terminal operator may further be transferred to another freight forwarder in the same location provided that the cargo being transferred is again a consolidation. No deposit shall be necessary. However, the terminal operator needs to send the release message to customs and the receiver needs to send the receipt message."
+		},
+		{
+			"question": "What is Cargo Transfer from CH to CH (Different Locations)?",
+			"answer": "A consolidated cargo transferred from the terminal operator may further be transferred to another Cargo Handler in another location provided that the cargo being transferred is again a consolidation. A deposit shall be necessary. However, the terminal operator needs to send the release message to customs and the receiver needs to send the receipt message."
+		},
+		{
+			"question": "What is Virtual Corridor?",
+			"answer": "Virtual Corridor is an approved Customs Procedure for transfer of goods under the Cargo Transfer Request using electronic system from one Customs Zone to another within Dubai by using only Dubai›s roads. Such roads are therefore considered to be as the virtual corridor for Transfer of Goods. Shipping Agents may avail this facility of Virtual Corridor provided by Dubai Customs against a Virtual Guarantee which is equal to an amount of AED 10000 and a service fee of AED 100, for each Cargo Transfer Request between the Customs Zones."
+		},
+		{
+			"question": "What is ATA Carnet?",
+			"answer": "ATA Carnet is an international Customs Document issued by an authorized Chamber of commerce on which goods can be moved through a number of countries who are the members of the ATA international Guarantee Chain without raising bonds or paying Customs Duty and Taxes or completing the normal Customs Procedures. This facility can be used for temporarily importing goods into the country or temporarily exporting goods. For importing, the importer needs to obtain the ATA carnet from the Guaranteeing Association in the country of shipment. For Exports, ATA carnet is issued by Dubai Chamber of Commerce and Industry."
+		},
+		{
+			"question": "What are Import and Export Procedures under ATA Carnet?",
+			"answer": "Currently UAE accepts carnet for exhibition goods only and the clearance is available only in the customs counter. Clearance is done on ATA document. Neither fees are collected nor Customs ask for any document other than ATA. In case the holder fails to export goods under ATA Carnet, customs will invoke its right to claim the applicable duty charges from the Guaranteeing Association. If the Customs Clearance under ATA is required after normal office hour, a service fee will be levied."
+		},
+		{
+			"question": "What is Submission of Manifest?",
+			"answer": "Cargo of all means of transport shall be unloaded only within the Customs Zone at the port under supervision of the customs office. The Manifest must be submitted by the shipmaster or Cargo Handler within (36) hours from the time the ship enters the seaport, excluding the official holidays. Any amendment or cancellation on the manifest submitted after above period shall be against a service charge of AED 5 for each bill of lading."
+		},
+		{
+			"question": "What is e-Freight Between Airports?",
+			"answer": "Dubai Customs has implemented e-Freight initiative of International Air Transport Association (lATA) by integrating the airports for transporting air cargo through which different freight and trade documents can be exchanged. This facility shall be available only between the airports of the countries where e- Freight initiative is implemented and logistically managed by approved air cargo companies. Only licensed air cargo companies registered in UAE and affiliated to e-Freight initiative shall be eligible to avail this service. The documents must be retained for a period of five years from the date of Declaration through an efficient archiving system which must be accessible to customs. The Documents of Commercial Invoice and Certificate of Origin shall be accepted from the airport of e-Freight in electronic form for the following declarations: Import, Import for re-export, Export, Transit/Transshipment, Transit in to Free Zones, Transit in to Customs Warehouses, Temporary Admission."
+		},
+		{
+			"question": "What is Electronic Airway Bill?",
+			"answer": "Cargo Handling Agents or Carriers may use the facility of Electronic Data Interchange for transferring the Airway Bill Information to Customs. The Information must include all the data available in the original Airway Bill. However, a copy must be presented as a part of submittal of Documents in accordance with the provision of Customs Notice7- of 2010."
+		},
+		{
+			"question": "What is Transshipment Cargo?",
+			"answer": "Any shipment may be transshipped only under supervision of the customs office. The Shipping Agents/ Cargo Handler must submit the load list within five business days from the date of Manifest submission for the purpose of reconciling the manifests of transshipped cargo."
+		},
+		{
+			"question": "What is Courier Declaration?",
+			"answer": "Courier companies shall submit Customs Declarations through Mirsal2- system for all types of shipments regardless to their value. However, Customs Declarations for courier goods whose value is AED 1000 and below shall be submitted in the following types of declarations: Courier Import Declaration, Courier Export Declaration, Courier Transit Declaration. Ref Custom Notice8- of 2010."
+		},
+		{
+			"question": "What is Submission of Claim for Refund?",
+			"answer": "The claims for refund of Deposit or releasing the Guarantee can be submitted online through Dubai Trade portal. The period in which a claim can be submitted shall be varying depending on the type of Deposits."
+		},
+		{
+			"question": "What are the Documents of Proof Export?",
+			"answer": "Sea Channel: Exit / Entry certificate, Copy of Export Declaration or copy of Manifest and Copy of bill of lading. Air Channel: Exit / Entry Certificate, Copy of Export Declaration and Copy of Airway Bill. By Land: Exit / Entry certificate, Copy of export declaration or Copy of manifest."
+		},
+		{
+			"question": "What is Settlement of Declaration (Non-Remittance) on Direct Export from FZ of same Customs Office?",
+			"answer": "Goods admitted into a free zone may be exported from the customs offices of the same Free zones without presenting a cash or bank guarantee for clearance of Customs Declarations. The goods must be re-exported within 30 days from the date of lodgment of Declaration. For the settlement of the customs procedure, the Declarant must submit a copy of FZ Transit-out Declaration and a Certificate of Exit/Entry, duly signed and stamped by the competent authority to the Customs as Proof of Export from the same port attached to the exporting FZ."
+		},
+		{
+			"question": "What is Automated Transfer of Customs Duty (ATCD)?",
+			"answer": "Customs cleared goods in free circulation may cross the borders of GCC Member States without levying Customs Duties repeatedly at each point of entry. For the purposes of automating, regulating and controlling Customs Procedures and transfer of Customs Duty, a System of Automated Transfer of Customs Duty (ATCD) has been implemented. This system will generate a Due Number (Barcode) consisting of 65 digits which shall be imprinted on the Customs Statistical Declarations."
+		},
+		{
+			"question": "What are the Requirements for the ATCD Process?",
+			"answer": "If the Exporter is different from the original Importer, then the copy of the Import Bill shall be required. The Import Bill Reference number in the system must be a valid number. An option to amend the reference number in Export Bill is provided. The system will calculate only the exact duty payable to the GCC Country. The System will print a Due Number on Statistical Declaration. Currently this services is provided at the Offices of Customs Bureau Services."
+		},
+		{
+			"question": "What is Post Clearance Audit?",
+			"answer": "Customs conducts post clearance audit on all transactions of the customer with Dubai Customs to ensure law compliance. In the process of audit Customs may demand the client for all required information to be submitted when it deems necessary in order to facilitate Customs Audit."
+		},
+		{
+			"question": "What is Retention of Documents?",
+			"answer": "The documents related to the Customs Declaration shall be required to retain for the period of 5 years from the date of clearance. Customs may demand all the Declaration related documents such as contracts, correspondence and other relevant documents without having to accept all that stated in the Declaration or in the Invoices. However, the documents related to the Free zone Customs Declaration shall be required to retain until the economic operations are being carried out in free zones."
+		},
+		{
+			"question": "What is Customs Audit?",
+			"answer": "Clients can submit a request to have their records audited by Dubai Customs in a formal application to the Customs Audit Department. Customs shall conduct the audit upon the approval against a service fee of AED 3000/. The Customs Audit Department shall conduct the audit and submit a final report within 3 months from the date of the payment of Audit Fee."
+		},
+		{
+			"question": "What is Protection of Intellectual Property Rights (IPR)?",
+			"answer": "Dubai Customs is committed to protect the Intellectual property Rights (IPR). The clients can register their Agency Rights and Trademark in “Brands Recording e-System” of Dubai Customs. Trade marks can be registered as a word, name, symbol, device or any combination of them which are used or intended to be used in trade in order to distinguish the brand from others."
+		},
+		{
+			"question": "What are Landing Certificates?",
+			"answer": "The importer may sometime need a proof of landing to prove to the export or other authorities that the goods exported have in fact landed in Dubai and cleared for home consumption. The importer or the exporter or their agents may request for landing certificates either through Dubai Trade or customs officers by submitting proof of clearance and delivery of the goods."
+		},
+		{
+			"question": "What are Vehicle Clearance Certificates (VCC)?",
+			"answer": "Any vehicle imported into the country must have a VCC to register the vehicle with the traffic authorities or to export them outside the country. The service to submit the requests for issuing the VCC is provided to customers online via Dubai Trade or through the bureau services in Customs locations against the customs cleared declaration."
+		},
+		{
+			"question": "What are Statistical Reports?",
+			"answer": "The clients can submit a request for statistical reports in a prescribed form duly signed and stamped by the company by paying applicable fees. Reports include: Summary Report-By HS Code, Summary Report-By Country, One HS Code by Country, One Country by HS Code, Company Yearly Performance, and Company Yearly Performance by HS Code."
+		},
+		{
+			"question": "What is Storing of Passenger Goods in the Airport?",
+			"answer": "Goods in the possession of inbound passengers may be placed in Customs stores at any of Dubai airports for a period of more than 24 hours against a storage fee of AED 100 per day on every package. The maximum period of storage shall be three months from the date of storage."
+		},
+		{
+			"question": "What is Sale of Goods by Public Auction?",
+			"answer": "In line with the provisions in the Common Customs Law of GCC and Dubai Customs Policy, Dubai Customs shall exercise the right to sell the following goods in public Auction: Seized perishable goods, Goods paced in Public and Private Customs Warehouses after the expiry of their permitted storages period, Un-Cleared Goods that exist in the Yards or Wharves, Unclaimed Goods which are left behind at the Customs Office or Customs Warehouse, and Confiscated means of Transport."
+		},
+
+
+
+		{
+			"question": "Why do I need a digital certificate?",
+			"answer": "The digital signature is a way to ensure that the submitted electronic documents are authentic. Authentic means that Dubai Customs knows who created the document and knows that it has not been altered in any way since that person created it. It is a type of asymmetric cryptography in which is used to simulate the security properties of a handwritten signature on paper. Applying two algorithms, one for signing the documents which involves the user's private key, and one for verifying signatures at Dubai Customs end which involves the user's public key. The process is accompanied with and end‐2‐end encryption for the data. Signed documents are also stored electronically for future reference. The signing code on the client side is also signed and the signature is published. Therefore the digital signature would provide enough evidence on identifying the signatory which would be legally binding in an UAE court of law."
+		},
+		{
+			"question": "Do we have to keep the documents supporting the declaration?",
+			"answer": "Yes, the authorized person or their representative is required by Common Customs Law of the GCC States (Article 127) to keep the supporting documents for a period of 5 years from the date of completion of the Customs operations."
+		},
+		{
+			"question": "Do I need to keep the original documents or can I keep an electric copy?",
+			"answer": "The authorized person who submits the declaration to Customs is required by commercial law to keep the original documents as received by them as stated in their deceleration to Customs."
+		},
+		{
+			"question": "I submit a large number of declarations to Customs, is there any way these declarations can be submitted directly to Customs via a B2B interface?",
+			"answer": "Yes. Dubai Customs has developed a B2B interface available for eligible partners."
+		},
+		{
+			"question": "What is Bureau Service?",
+			"answer": "The service provided to Personal Customers to submit the Declaration into Mirsal 2 to clear Personal Effects."
+		},
+		{
+			"question": "What are all the services available in the Bureau?",
+			"answer": "The Bureau offers a variety of services including the submission of new declarations, registering individuals as a Personal Client, and the cancellation of declarations."
+		},
+		{
+			"question": "Is the process of registering a Personal Customer a separate one?",
+			"answer": "No, the process of registering a Personal Customer is integrated within the process of submitting a new Declaration. Once registered, Personal Clients can use the same Client registration ID for all future Declarations."
+		},
+		{
+			"question": "What are the Documents required for Personal Customers registration?",
+			"answer": "The documents required for Personal Client registration are a copy of a valid Passport and National ID (optional) for nationals. For foreigners, a copy of the Passport with a valid visa stamp and national ID (optional) are required."
+		},
+		{
+			"question": "What are the documents required for Declaration?",
+			"answer": "The documents required for a Declaration include a detailed original invoice or a document reflecting the value of goods, a Bill of Lading, a Packing List (optional), a Certificate of Origin (optional), and a Permit from the competent authority (conditional)."
+		},
+		{
+			"question": "Is Delivery Order required for Declaration clearance?",
+			"answer": "Yes, a Delivery Order issued by the shipping Agent is required prior to submitting the Declaration."
+		},
+		{
+			"question": "On which value is the Duty calculated?",
+			"answer": "The customs duty is calculated on the value of the imported goods plus freight, insurance, and other relevant charges until arrival at the port of destination."
+		},
+		{
+			"question": "What are the other documents required by Customs in order to prove the value of goods?",
+			"answer": "The customs office may require all documents, contracts, correspondence, and other relevant documents to determine the value of goods."
+		},
+		{
+			"question": "Will Customs accept an Invoice written in a foreign language other than English?",
+			"answer": "Yes, but the Administration may request an Arabic translation of the invoices and other documents if required."
+		},
+		{
+			"question": "Can a Personal Customer of any GCC states clear Customs Declaration in Dubai, if it is the first entry point?",
+			"answer": "According to the Common Customs Law of the GCC States, all importers, including Personal Customers, should complete the Customs Clearances at the first entry point."
+		},
+		{
+			"question": "Is a Personal Customer eligible for duty exemption on Personal Effects and Household items?",
+			"answer": "Yes, Personal Customers can be eligible for Duty exemption on Personal Effects and Household items if they meet certain conditions, such as being nationals residing abroad returning to the country, or foreigners moving to the country for the first time."
+		},
+		{
+			"question": "If personal effects are new items, what is the duty?",
+			"answer": "The Customs Duty on new personal effects and household items is collected in accordance with the customs law provisions and tariff."
+		},
+		{
+			"question": "Is a permit from the competent authority required for restricted goods imported by a Personal Customer also?",
+			"answer": "Yes, a permit or approval from the competent authority is required to clear a Declaration that includes any restricted goods."
+		},
+		{
+			"question": "Which are the modes of payments acceptable to Bureau for payment of Duty?",
+			"answer": "The Bureau accepts payment of Duty via Cheques and Cash."
+		},
+		{
+			"question": "Can a Personal Client submit Declaration through a Broker?",
+			"answer": "Yes, a Personal Customer can submit the Declaration through a Broker."
+		},
+		{
+			"question": "What is a cargo?",
+			"answer": "Cargo refers to goods that are transported or to be transported. This includes all goods carried on any means of transportation such as ships, aircraft, or trucks, and is usually covered by a bill of lading, airway bill, or manifest."
+		},
+		{
+			"question": "What is a cargo transfer?",
+			"answer": "A Cargo Transfer is the shipment of cargo from one location to another. This requires declaring a Cargo Transfer Request using the Mirsal-2 System of Dubai Customs. The cargo may be arriving from overseas and transferred to another location other than the port of arrival."
+		},
+		{
+			"question": "What is a cargo transfer request?",
+			"answer": "A cargo transfer request is a declaration submitted by a declarant or his representative that describes the declared cargo and its quantity in detail, according to the provisions of the law."
+		},
+		{
+			"question": "What is a declarant?",
+			"answer": "A declarant is a person who is authorized either by law or by an authority given by Customs to declare a Cargo Transfer request to Customs."
+		},
+		{
+			"question": "Who can declare a cargo transfer request?",
+			"answer": "A Cargo Transfer Request is typically declared by Cargo Handlers (CH), also known as the Transferee. This could also be done by a representative of the Cargo Handlers, known as a Customs Broker."
+		},
+		{
+			"question": "What are the types of cargo transfer?",
+			"answer": "There are five types of Cargo Transfers, each depending on the purpose of clearance. These include transfers from a Cargo Terminal Operator (CTO) to a Cargo Handler (CH) at the same or different locations, transfers from a CH to another CH at the same or different locations, and transfers from a CTO to another CTO at different locations."
+		},
+		{
+			"question": "What is a transferee?",
+			"answer": "A transferee is a person or a business that receives the Cargo from the Transferor."
+		},
+		{
+			"question": "Who is the CTO?",
+			"answer": "A CTO, or Cargo Terminal Operator, is the operator who controls the area of the airport or wharf where cargo is loaded and unloaded from aircraft or ships, including land container depots."
+		},
+		{
+			"question": "Who is the CH?",
+			"answer": "CH, or Cargo Handlers, are agents who are responsible for handling the cargo such as storage, consolidation, and delivery of consolidated cargo."
+		},
+		{
+			"question": "What is a cargo transfer number?",
+			"answer": "A number generated by Customs to identify the Cargo Transfer Request, also known as “Declaration Number”."
+		},
+		{
+			"question": "What is a transferee premises (location)?",
+			"answer": "Transferee Premises is the facility location of the Cargo Handler (CH) / Cargo Terminal Operator (CTO) where the cargo will be received for storage, consolidation and delivery of consolidated cargo."
+		},
+		{
+			"question": "What is customs duty?",
+			"answer": "The term “customs taxes (duties) “means the amounts levied on the goods according to the provisions of this Law (Article 2(12) Common Customs Law of GCC States)."
+		},
+		{
+			"question": "What is a transferor premises (location)?",
+			"answer": "A Transferor Premises is the facility location of the CTO / CH from where the cargo is to be released to the Transferee."
+		},
+		{
+			"question": "What is the customs law?",
+			"answer": "The rules and provisions governing customs work, and any other supplementing or amending rules or provisions, (Article 2(8) of Common Customs Law of the GCC States)."
+		},
+		{
+			"question": "What are the types of transaction in declaring a cargo transfer request?",
+			"answer": "There are three types of transactions for declaring a Cargo Transfer Request in the Mirsal2 System/Dubai Trade:\n\n1. New Cargo Transfer Request: An initial transaction for declaring a request for Cargo Transfer, subject to Customs approval.\n\n2. Amend Cargo Transfer Request: A request to amend an already submitted and cleared Cargo Transfer. Certain fields cannot be amended. Amendments may result in the collection or refund of duties or deposits, and all amendment requests are subject to Customs approval.\n\n3. Cancel Cargo Transfer Request: A request to cancel an already cleared Cargo Transfer. Cancellation can initiate the refund of duty or deposits and collection of cancellation-related charges. All cancellation requests are subject to Customs approval."
+		},
+		{
+			"question": "What is a customs broker?",
+			"answer": "A Customs broker is responsible for submitting the declaration and is aware of all the Customs procedures required to make declarations. They can submit all kinds of Cargo Transfer Requests, retain original documents for the period stipulated by the Customs, and perform other activities such as submitting Cargo Release, etc. They can be a Private Customs Broker (PCB) or a Sub Customs Broker (SCB)."
+		},
+		{
+			"question": "Who is a PCB?",
+			"answer": "A Private Customs Broker (PCB) is a person who represents the company for which they are employed (e.g., local trading company, Free Zone Company, Shipping Agent, Private Customs Warehouse Consignee, CH, CTO, etc.) to make declarations or Cargo Transfer Requests."
+		},
+		{
+			"question": "Who is an SCB?",
+			"answer": "A Sub Customs Broker (SCB) is a person who represents the General Broking Company (GCB) and can submit declarations or Cargo Transfer Requests to Customs on behalf of various entities like local trading companies, Free Zone Companies, Shipping Agents, ATA agents, Walk-in Customers, CH, CTO, etc."
+		},
+		{
+			"question": "What is a GCB?",
+			"answer": "A General Customs Broker (GCB) is a Customs broking company who employs Sub Customs Brokers (SCBs) to represent its business. They must get authorization from the trading entity to make declarations on their behalf and/or to use the trading company/'s Credit account or Standing Guarantee account. The responsibility for the account selection lies with the GCB, and Customs does not hold any responsibility for the usage of the account."
+		},
+		{
+			"question": "What is submitting cargo release?",
+			"answer": "Submitting Cargo Release is an action performed against a cleared Cargo Transfer Request by a Transferor to inform Customs that the physical cargo has been released from their premises."
+		},
+		{
+			"question": "What is submitting cargo receipt?",
+			"answer": "Submitting Cargo Receipt is an action performed against a cleared Cargo Transfer Request by a Transferee to inform Customs that the cargo has been physically received from the Transferor."
+		},
+		{
+			"question": "What is a document?",
+			"answer": "A document is any medium designed to carry information and actually carrying a record of data entries. This includes magnetic tapes and disks, microfilms, etc. (according to the WCO General Annex - chapter 2)"
+		},
+		{
+			"question": "Who can submit a cargo release?",
+			"answer": "The submission of a Cargo Release through Mirsal-2/Dubai Trade is performed by a Transferor identified in the Cargo Transfer Request by providing the date the Cargo was released. This task cannot be performed by a representative of the Transferor."
+		},
+		{
+			"question": "Who can submit a cargo receipt?",
+			"answer": "The submission of a Cargo Receipt through Mirsal-2/Dubai Trade is performed by a Transferee identified in the Cargo Transfer Request by providing the date the Cargo was received. This task cannot be performed by a representative of the Transferee."
+		},
+		{
+			"question": "What are the modes of payment to settle fees and charges for cargo transfer request?",
+			"answer": "Standing Guarantee Account and Duty Credit Account are the mode of payments applicable for settling fees and charges for Cargo Transfer Request. Cash Payment and e‐Payment Facility are not applicable mode of payments for settling fees and charges."
+		},
+		{
+			"question": "What are the applicable fees and charges for cargo transfer requests?",
+			"answer": "The following are list of applicable fees and charges for Cargo Transfer Requests:\n\n1. Deposits\n2. Registration Fees\n3. Amendment Charges\n4. Cancellation Charges\nFor Cancellation and Amendment of Cargo Transfer Request, a refund of duty / deposits may be applicable."
+		},
+		{
+			"question": "What is a deposit?",
+			"answer": "A sum of money provisionally paid or title deeds, bearer bonds, etc, lodged as security for the payment of such duties, taxes or other sums as may become chargeable. (WCO General Annex ‐chapter 2)"
+		},
+		{
+			"question": "What are the methods to follow‐up a cargo transfer request?",
+			"answer": "There are 3 methods of tracking a Cargo Transfer Request in Mirsal‐2/Dubai Trade, these are:\n\n1. Track Cargo Transfer – is used when the Cargo Transfer Request is in approval stage.\n\n2. Search Cargo Transfer – is used when the Cargo Transfer has been cleared or approved by Customs.\n\n3. Print Cargo Transfer – is used to print the official cleared Cargo Transfer Request to be used for moving and receiving the physical cargo."
+		},
+		{
+			"question": "What is master transport document number?",
+			"answer": "Identification number of Master transport document such as Airway bill number, Sea Bill of lading number, Postal CP note number or Road Consignment Note number on which cargo is moving."
+		},
+		{
+			"question": "What is manifest registration number?",
+			"answer": "Manifest Registration No is a Dubai Trade generated reference number on submission/registration of manifest through Dubai trade portal."
+		},
+		{
+			"question": "What is preceding clearance number?",
+			"answer": "This is the previous Cargo Transfer No. which was used to move the cargo previously."
+		},
+		{
+			"question": "What is a customs location?",
+			"answer": "Customs Location means that part of lands or sea."
+		},
+		{
+			"question": "What is a GCB?",
+			"answer": "A General Customs Broker (GCB) is a Customs broking company who will have SCB’s to represent its business. General Customs Brokers should get authorization from the trading entity to make declarations on behalf of them and/or to use trading company/'s Credit account or Standing Guarantee account. The liability of the account selection is the responsibility of the GCB and Customs do not hold any responsibility on the usage of the account."
+		},
+		{
+			"question": "What documents do I have to bring for Inspection?",
+			"answer": "Delivery Advice, Export BOE, Standard BoE and others as required."
+		},
+		{
+			"question": "Who will make the amendment to the declaration?",
+			"answer": "The DUCAMZ staff will no longer amend the vehicle or enclosure items information. You can submit an amendment request from Mirsal2."
+		},
+		{
+			"question": "What are the penalties for providing wrong information?",
+			"answer": "Please see the Custom Notices for information."
+		},
+		{
+			"question": "What information do I have to submit in declarations?",
+			"answer": "Complete vehicle details and enclosure items."
+		},
+		{
+			"question": "Is there any Vehicle ID created in the new system?",
+			"answer": "No, the Vehicle ID has been discontinued and it will not be created in Mirsal2. The DUCAMZ staff will not ask for Vehicle ID for declarations submitted through Mirsal2."
+		},
+		{
+			"question": "How will I know if the declaration is cleared or further action is required?",
+			"answer": "Check the declaration status on Mirsal2."
+		},
+		{
+			"question": "How many Vehicles can be entered in each declaration type?",
+			"answer": "Any number of vehicles in Transit In Declaration. However, Transit out or Import from FZ to local, for DUCAMZ there is a restriction of one vehicle per one declaration."
+		},
+		{
+			"question": "What are the required documents to generate VCC?",
+			"answer": "Declaration copy shall suffice."
+		},
+		{
+			"question": "Vehicles can come only through FCL & FCL or it may come as general cargo and RoRo as well?",
+			"answer": "No Restrictions."
+		},
+		{
+			"question": "How much the customs duty for this and is there any exemption?",
+			"answer": "Duty on import is 5% ‐ For entering into DUCAMZ on Transit In Declaration there is no duty."
+		},
+		{
+			"question": "How often customs will decide whether inspection is required or not since it will not be 100% inspection?",
+			"answer": "It Depends on Customs Decisions which will be guided by Risk Engine and EPG judgment."
+		},
+		{
+			"question": "Does pre-clearance work for DUCAMZ or not yet?",
+			"answer": "Yes."
+		},
+		{
+			"question": "Are all cargo channels allowed for DUCAMZ in M2?",
+			"answer": "Yes."
+		},
+		{
+			"question": "“Vehicle ID” is no more required for subsequent transaction, but what about the declaration ref. number?",
+			"answer": "It will be optional."
+		},
+		{
+			"question": "Can customer make “FZ Transit Out to Non Dubai FZ (Other Emirates and GCC)” and “FZ Transit In from GCC and other Emirates FZ and GCC Local Market” online?",
+			"answer": "Yes. But this will be rare."
+		},
+		{
+			"question": "Do DUCAMZ customers have to print GCC and Standard printouts always even if no inspections?",
+			"answer": "GCC Print will be required for Inspections."
+		},
+		{
+			"question": "What is an acknowledgment?",
+			"answer": "Acknowledgment is a process of recognizing a cleared declaration to determine if it is agreeable or acceptable to all parties involved in the declaration. This is required by Customs for selected Declaration Types to ensure the agreement of all parties, to avoid declarations without the knowledge or approval of the involved parties, and to identify the responsibility for duty liability and custody of goods at any point in time."
+		},
+		{
+			"question": "What are the kinds of acknowledgment?",
+			"answer": "A declaration acknowledgment can be either accepted or declined by the Acknowledgment Owner identified in the declaration. Accepting the acknowledgment signifies that the declaration is agreeable to the Acknowledgment Owner, while declining it (with a provided reason) signifies the opposite. This process is carried out through the Mirsal-2 System/Dubai Trade using the Acknowledgment Facility."
+		},
+		{
+			"question": "What are the types of declaration subject for acknowledgment?",
+			"answer": "The types of declarations that require acknowledgment depend on the declaration type, as shown in the table. For example, EX2 (Export from Local to Dubai FZ) requires acknowledgment from the Importer, while TR1 (Transfer of Cargo by Dubai based CW) requires acknowledgment from the Exporter."
+		},
+		{
+			"question": "Who is the declaration owner?",
+			"answer": "The Declaration Owner is the party who declared the declaration or was declared by a representative on their behalf."
+		},
+		{
+			"question": "Who is the acknowledgment owner?",
+			"answer": "The Acknowledgment Owner is a third-party company involved in a business transaction with the Declaration Owner. They are required to acknowledge the cleared declaration by either accepting or declining it."
+		},
+		{
+			"question": "What happens if declaration acknowledgment is declined?",
+			"answer": "If the acknowledgment is declined, the Declaration Owner is required to amend or cancel the declaration, as it is not acceptable to the other party. Customs fees and charges for amendments and cancellation will still apply."
+		},
+		{
+			"question": "What are the notifications/reminders provided for acknowledgment?",
+			"answer": "Notifications and reminders are sent to all parties involved requesting acknowledgment once the declaration is cleared by Customs. If acknowledgment is accepted or declined, a notification is sent to the Declaration Owner. If no action is taken after three reminders, the declaration is sent to Customs’ Exception Handling Group for further investigation."
+		},
+		{
+			"question": "Can the declaration owner amend or cancel the declaration when the declaration acknowledgment has been accepted?",
+			"answer": "Yes, the Declaration Owner can amend or cancel the declaration even after the acknowledgment has been accepted. This may require a new acknowledgment from the Acknowledgment Owner."
+		},
+		{
+			"question": "Are there fees and charges for acknowledgment?",
+			"answer": "There are currently no fees or charges for declaration acknowledgment, but penalties may be introduced in the future for not proceeding with acknowledgment. However, fees and charges for declaring the declaration still apply."
+		},
+		{
+			"question": "Is email address important in acknowledgment?",
+			"answer": "Yes, it is important for all parties to have an email address for notifications and reminders. Business Profile and User Profiles should be updated to include a working email address to efficiently carry out and perform declaration acknowledgment."
+		},
+		{
+			"question": "Are there documents needed for acknowledgment?",
+			"answer": "No documents are required for the acknowledgment process, but the details of the declaration can be referred to in the View Declaration of the Mirsal-2 System/Dubai Trade."
+		},
+		{
+			"question": "Can declaration acknowledgment be accomplished by a broker on behalf of the acknowledgment owner?",
+			"answer": "Yes, a broker authorized to act on behalf of the Acknowledgment Owner can perform declaration acknowledgment."
+		},
+		{
+			"question": "What is a customs broker?",
+			"answer": "A Customs broker submits the declaration and is aware of all the Customs procedures required to make declarations. They submit all kinds of declarations, retain original documents for the period stipulated by Customs, and perform other required activities such as declaration acknowledgment. A Customs Broker can be either a Private Customs Broker (PCB) or a Sub Customs Broker (SCB)."
+		},
+		{
+			"question": "Who is a PCB ?",
+			"answer": "A Private Customs Broker (PCB) is a person who represents the company for which they are employed (e.g., local trading company, Free Zone Company, Shipping Agent, Private Customs Warehouse Consignee, CH, CTO, etc.) to make declarations or acknowledgment a declaration."
+		},
+		{
+			"question": "Who is an SCB?",
+			"answer": "A Sub Customs Broker (SCB) is a person who represents the General Broking Company (GCB) and can submit declarations or acknowledgment to Customs on behalf of entities such as local trading companies, Free Zone Companies, Shipping Agents, ATA agents, Walk-in Customers, CH, CTO, etc."
+		},
+		{
+			"question": "What is a document?",
+			"answer": "Any medium designed to carry information and actually carrying a record of data entries, it includes magnetic tapes and disks, microfilms, etc. (WCO General Annex ‐ chapter 2)"
+		},
+		{
+			"question": "How to follow-up an acknowledgment?",
+			"answer": "Declaration Owner may track or follow‐up the status of the acknowledgment by using the Acknowledgment Facility in Mirsal‐2 System/Dubai Trade. Provide some information of the declaration to search for it and can view the Acknowledgment History."
+		},
+		{
+			"question": "Who is importer?",
+			"answer": "An Importer is a Business/Company (within a Freezone/Customs Warehouse) which buys goods from other Business/Company (within a Freezone/Customs Warehouse). Also known as a Buyer."
+		},
+		{
+			"question": "Who is exporter?",
+			"answer": "An Exporter is a Business/Company (within a Freezone/Customs Warehouse) which sells goods from other Business/Company (within a Freezone/Customs Warehouse). Also known as a Seller."
+		},
+		{
+			"question": "What is a free zone?",
+			"answer": "The Free Zone is a part of the state’s territories in which commercial or industrial activities are exercised under the respective laws of that state. Any goods entering that zone are considered to be outside the customs zone and shall not be subject to the usual customs control and procedures. (Article 2(32) of Common Customs Law of the GCC States)"
+		},
+		{
+			"question": "What is customs warehouse?",
+			"answer": "Warehouse means the place or facility wherein the goods are deposited under supervision of the Administration free of Customs duties (taxes) according to the Provision of GCC Customs Law (Article 2(36) of Common Customs Law of the GCC States)."
+		},
+		{
+			"question": "What documents do I have to bring for Inspection?",
+			"answer": "Delivery Advice, Export BOE, Standard BoE and others as required."
+		},
+		{
+			"question": "Who will make the amendment to the declaration?",
+			"answer": "The DUCAMZ staff will no longer amend the vehicle or enclosure items information. You can submit an amendment request from Mirsal2."
+		},
+		{
+			"question": "What are the penalties for providing wrong information?",
+			"answer": "Please see the Custom Notices for information."
+		},
+		{
+			"question": "What information do I have to submit in declarations?",
+			"answer": "Complete vehicle details and enclosure items."
+		},
+		{
+			"question": "Is there any Vehicle ID created in the new system?",
+			"answer": "No, the Vehicle ID has been discontinued and it will not be created in Mirsal2. The DUCAMZ staff will not ask for Vehicle ID for declarations submitted through Mirsal2."
+		},
+		{
+			"question": "How will I know if the declaration is cleared or further action is required?",
+			"answer": "Check the declaration status on Mirsal2."
+		},
+		{
+			"question": "How many Vehicles can be entered in each declaration type?",
+			"answer": "Any number of vehicles in Transit In Declaration. However, Transit out or Import from FZ to local, for DUCAMZ there is a restriction of one vehicle per one declaration."
+		},
+		{
+			"question": "What are the required documents to generate VCC?",
+			"answer": "Declaration copy shall suffice."
+		},
+		{
+			"question": "Vehicles can come only through FCL & FCL or it may come as general cargo and RoRo as well?",
+			"answer": "No Restrictions."
+		},
+		{
+			"question": "How much the customs duty for this and is there any exemption?",
+			"answer": "Duty on import is 5% - For entering into DUCAMZ on Transit In Declaration there is no duty."
+		},
+		{
+			"question": "How often customs will decide whether inspection is required or not since it will not be 100% inspection?",
+			"answer": "It depends on Customs Decisions which will be guided by Risk Engine and EPG judgment."
+		},
+		{
+			"question": "Does pre-clearance work for DUCAMZ or not yet?",
+			"answer": "Yes."
+		},
+		{
+			"question": "Are all cargo channels allowed for DUCAMZ in M2?",
+			"answer": "Yes."
+		},
+		{
+			"question": "“Vehicle ID” is no more required for subsequent transaction, but what about the declaration ref. number?",
+			"answer": "It will be optional."
+		},
+		{
+			"question": "How is the Customs examination conducted?",
+			"answer": "The examination of goods will be conducted outside the customs office at the expense of the owner of the goods and against the prescribed service charges."
+		},
+		{
+			"question": "What is the procedure for importing goods into Dubai?",
+			"answer": "To import goods into Dubai, you must first obtain an import code from Dubai Customs. Then, submit a declaration through the Dubai Trade portal and provide all necessary documents. Once the declaration is approved and all fees are paid, the goods can be released."
+		},
+		{
+			"question": "What documents are required for importing goods into Dubai?",
+			"answer": "The documents required for importing goods into Dubai include a commercial invoice, bill of lading or airway bill, packing list, certificate of origin, and any other relevant permits or licenses."
+		},
+		{
+			"question": "What is the procedure for exporting goods from Dubai?",
+			"answer": "To export goods from Dubai, first obtain an export code from Dubai Customs. Then, submit a declaration through the Dubai Trade portal and provide all necessary documents. Once the declaration is approved and all fees are paid, the goods can be released for export."
+		},
+		{
+			"question": "What documents are required for exporting goods from Dubai?",
+			"answer": "The documents required for exporting goods from Dubai include a commercial invoice, bill of lading or airway bill, packing list, certificate of origin, and any other relevant permits or licenses."
+		},
+		{
+			"question": "What are the customs duties for importing goods into Dubai?",
+			"answer": "The customs duties for importing goods into Dubai vary depending on the type of goods and their country of origin. Most goods are subject to a 5% customs duty, but some goods may be exempt or subject to a different rate."
+		},
+		{
+			"question": "How do I pay customs duties in Dubai?",
+			"answer": "Customs duties in Dubai can be paid through the Dubai Trade portal using a credit card or bank transfer. You can also pay in person at a Dubai Customs office using cash or a check."
+		},
+		{
+			"question": "What goods are exempt from customs duties in Dubai?",
+			"answer": "Certain goods are exempt from customs duties in Dubai. These include diplomatic goods, military goods, personal effects and household items for individuals shifting their residence, and passenger goods within certain limits. Specific conditions and requirements apply to each category of exempt goods."
+		},
+		{
+			"question": "What are the conditions for duty exemption on personal effects and household items?",
+			"answer": "Individuals can bring their personal effects and used household items into the country on duty exemption, provided they meet certain requirements. These include that the items are in used condition, the quantity is within the limit of furnishing a house, and the owner of the goods matches the name in the documents. For nationals, they must be returning to UAE after shifting their residence from abroad. For foreigners, they should be coming to UAE for the first time for residence."
+		},
+		{
+			"question": "What are the conditions for duty exemption on passenger goods?",
+			"answer": "Passengers are eligible for duty exemption on accompanied goods, provided certain conditions are met. These include limits on the value of gift items, number of cigarettes and cigars, amount of tobacco and alcoholic beverages, and that the goods are personal belongings. Additionally, electronic goods and home appliances must be in a reasonable quantity. Age and frequency of reporting to customs office also apply for certain items."
+		},
+		{
+			"question": "What are the goods that are exempt from customs duties in Dubai?",
+			"answer": "The following goods are exempt from customs duties in Dubai: 1-Diplomatic goods, 2-Military goods, 3-Personal effects and household items for individuals shifting their residence, 4-Passenger goods within certain limits, 5-Philanthropic and charitable goods, 6-Commodities used by people with special needs, 7-Returned goods, 8-Temporarily exported goods, 9-Industrial goods"
+		},
+		{
+			"question": "What are the conditions for duty exemption on returned goods?",
+			"answer": "Duty exemption on returned goods can be claimed under certain conditions. If the goods are of National Origin, they must be returned within 3 years from the date of exportation, must be the same goods that were exported with the proof of their origin, and must be returned in the same state as they were exported. For Foreign Goods, they must be returned within a year from re-exportation, customs duty must have been paid during the original importation, and the duty or deposit must not have been refunded at the time of re-exportation. For Temporarily Exported Goods, customs duty is applicable only on the value added due to finishing or repair, and the goods must return within a year from re-exportation."
+		},
+		{
+			"question": "What are the steps involved in customs clearance?",
+			"answer": "The customs clearance process involves the submission of a customs declaration by the importer or exporter, inspection and verification of goods and the declaration by the customs office, assessment and payment of customs duty and taxes, and the release of goods by the customs office."
+		},
+		{
+			"question": "What are the channels available for submitting customs declarations?",
+			"answer": "Customs declarations can be submitted through Dubai Trade, Business to Government (B2G), and Customs Bureau Services."
+		},
+		{
+			"question": "Who are eligible to use the Bureau Services channel?",
+			"answer": "Bureau Services can be used by Private Individuals, Professional Licensees, Government Entities, Non-Profit Organizations, Educational Institutes, and Diplomatic Bodies."
+		},
+		{
+			"question": "What are the different customs clearance centers in Dubai?",
+			"answer": "Customs clearance centers in Dubai include Hamriya, Creek, Creek Entry, Hatta Border, Post Offices, and the Land Customs Office."
+		},
+		{
+			"question": "What are the different methods for customs clearance in Dubai?",
+			"answer": "Methods for customs clearance in Dubai include online declaration, pre-arrival clearance, submission of documents, e-archival of customs declarations, and following customs procedures for different types of declarations and importation."
+		},
+		{
+			"question": "What are the documents required for customs clearance in Dubai?",
+			"answer": "Documents required for customs clearance in Dubai can include a commercial invoice, bill of lading or airway bill, packing list, certificate of origin, and other relevant permits or licenses."
+		},
+		{
+			"question": "What are the time limits for submitting documents for customs clearance in Dubai?",
+			"answer": "Documents for customs clearance in Dubai must be submitted within 14 days from the date of processing the declaration. Late submission results in a daily fine of AED 50, for a maximum of 90 days. Further penalties may apply if documents are not submitted within this period."
+		},
+		{
+			"question": "What are the offices for documents submission in Dubai?",
+			"answer": "Document submission offices in Dubai are designated based on the cargo channel and Customs locations. More details can be found in Appendix J –Documents Submittal."
+		},
+		{
+			"question": "What is e-Archival of customs declarations?",
+			"answer": "E-Archival of customs declarations is a system used by Dubai Customs to store original copies of customs declarations and their attachments. Clients can request a softcopy of their Customs Declarations and their attachments through the e-Archive system."
+		},
+		{
+			"question": "What are the customs procedures and types of declarations?",
+			"answer": "While submitting for clearance, the declarant must specify the regime type of the Declaration. The regime types include Import, Export, Transit, Temporary Admission, and Transfer."
+		},
+		{
+			"question": "What are the different declaration types associated with importation?",
+			"answer": "The different declaration types associated with importation include Import to Local from ROW, Import to Local from FZ, Import to Local from CW, Import to Local from GCC, Import for Re-Export to Local from ROW, Import for Re-Export to Local from FZ, Import for Re-Export to Local from CW, Import to CW from ROW, Import to CW from FZ, Import to CW from Local (after Temporary Admission), and Import after Temporary Admission."
+		},
+		{
+			"question": "What are the different declaration types associated with importation from Rest of World (ROW)?",
+			"answer": "The different declaration types associated with importation from ROW are: 1. Import to Local from ROW, 2. Import for Re-Export to Local from ROW"
+		},
+		{
+			"question": "What are the documents required for importation from ROW?",
+			"answer": "The required documents for importation from ROW include: 1. Master Airway Bill/House Airway Bill for Air channel, 2. Master Bill Of Lading/House Bill Of Lading for Sea Channel, 3. Commercial Invoice, 4. Certificate of Origin, 5. Packing List, 6. Delivery Order (for Sea), 7. Permits, if applicable"
+		},
+		{
+			"question": "What are the requirements for importation from Free Zone (FZ)?",
+			"answer": "The requirements for importation from FZ are: 1. Declaration submission by a registered local Importer or authorized Customs Broker, 2. Required Documents: a. Delivery Advice, b. Invoice, c. Packing List, d. Permit for Restricted Goods (if any) from a competent authority"
+		},
+		{
+			"question": "What are the requirements for importation from Customs Warehouse (CW)?",
+			"answer": "The requirements for importation from CW are: 1. Declaration submission by the Customs Warehouse Licensee or a registered local Importer being the owner of the goods, 2. Required Documents: a. Invoice, b. Packing List"
+		},
+		{
+			"question": "What are the requirements for importation from GCC (Statistical Import)?",
+			"answer": "The requirements for importation from GCC (Statistical Import) are: 1. Clearance of Declaration type “Import to Local from GCC”, 2. Required Documents: a. Delivery Order (for Sea Channel), b. Master Airway Bill/House Airway Bill for Air channel, c. Master Bill Of Lading/House Bill Of Lading for Sea Channel, d. Land Manifest/Truck way bill for Land Channel, e. Commercial Invoice, f. Packing List, g. Statistical Export Bill cleared from an exporting country of GCC with the endorsement of “Makasa Claim Number (MCN)” or “Makasa Stamp” in the case of duty-paid goods are imported"
+		},
+		{
+			"question": "What are the requirements for importation for Re-Export to Local from ROW?",
+			"answer": "The requirements for importation for Re-Export to Local from ROW are: 1. Clearance of Declaration type “Import for Re Export to Local from ROW”, 2. Limited to those with a value higher than AED 20000, except for vehicles, 3. Required Documents: a. Master Airway Bill/House Airway Bill for Air Channel, b. Master Bill Of Lading/House Bill Of Lading for Sea Channel, c. Commercial Invoice, d. Certificate of Origin, e. Packing List, f. Delivery Order"
+		},
+		{
+			"question": "What are the requirements for importation for Re-Export to Local from FZ?",
+			"answer": "The requirements for importation for Re-Export to Local from FZ are: 1. Customs duties secured by Standing Bank Guarantee or deposit, 2. Declaration submission by a registered local Importer or authorized Customs Broker, 3. Required Documents: a. Delivery Advice, b. Invoice, c. Packing List, d. Permit for Restricted Goods (if any) from competent authority"
+		},
+		{
+			"question": "What are the requirements for importation for Re-Export to Local from CW?",
+			"answer": "The requirements for importation for Re-Export to Local from CW are: 1. Customs duties secured by Standing Bank Guarantee or Deposit, 2. Declaration submission by the Customs Warehouse Licensee or a registered local Importer being the owner of the goods, 3. Required Documents: a. Invoice, b. Packing List"
+		},
+		{
+			"question": "What are the different declaration types associated with exportation from Local to ROW?",
+			"answer": "The different declaration types associated with exportation from Local to ROW are: 1. Export from Local to ROW, 2. Re Export to ROW (after import for re-export)"
+		},
+		{
+			"question": "What are the documents required for exportation from Local to ROW?",
+			"answer": "The required documents for exportation from Local to ROW include: 1. Export Invoice, 2. Packing List, 3. Export Permit from a controlling authority (if applicable to restricted exports)"
+		},
+		{
+			"question": "What are the requirements for exportation from Local to Dubai FZ?",
+			"answer": "The requirements for exportation from Local to Dubai FZ are: 1. Declaration submission by the exporter or their broker, 2. Acknowledgement by the receiving Free Zone client through the service available on Dubai Trade, 3. Required Documents: a. Export Invoice, b. Packing List"
+		},
+		{
+			"question": "What are the requirements for exportation from Local to GCC (statistical export)?",
+			"answer": "The requirements for exportation from Local to GCC (statistical export) are: 1. Ability to export previously imported foreign goods to another GCC state on a statistical Export Declaration, 2. Avoidance of repeated Duty payment provided the statistical export declaration carries MAKAS stamp, 3. Required Documents: a. Export Invoice, b. Packing List, c. Copy of Import Declaration (for Makasa Process)"
+		},
+		{
+			"question": "What are the requirements for exportation from CW to ROW?",
+			"answer": "The requirements for exportation from CW to ROW are: 1. Ability to export goods admitted into a Customs Warehouse to any ROW country, 2. Completion of the Export Customs procedure through the mentioned Declaration Type, 3. Required Documents: a. Export Invoice, b. Packing List"
+		},
+		{
+			"question": "What are the requirements for exportation from CW to FZ?",
+			"answer": "The requirements for exportation from CW to FZ are: 1. Ability to export foreign goods from a Customs Warehouse to a Free Zone in Dubai, considering export restrictions, 2. Completion of the required Customs Procedure to admit the goods into Free zone, 3. Required Documents: a. Export Invoice, b. Packing List"
+		},
+		{
+			"question": "What are the requirements for Re Export to ROW (after import for re-export)?",
+			"answer": "The requirements for Re Export to ROW (after import for re-export) are: 1. Requirement of Customs inspection and exit certification to claim the refund of security deposit or guarantee paid against the Import for Re-Export Declaration, 2. Possibility to claim back the guarantee or deposit only if the imported goods have been exported within six months from the date of Import for Re-Export Declaration, 3. Required Documents: a. Export Invoice, b. Packing List"
+		},
+		{
+			"question": "What are the different declaration types associated with transit?",
+			"answer": "The different declaration types associated with transit are: 1. Transit (ROW to ROW), 2. FZ Transit In, 3. FZ Transit Out, 4. FZ Transit In from GCC and other Emirates FZ and GCC Local Market, 5. FZ Transit between Dubai based FZ"
+		},
+		{
+			"question": "What are the documents required for transit?",
+			"answer": "The required documents for transit include: 1. Copy of Transport Document, 2. Delivery order"
+		},
+		{
+			"question": "What are the requirements for FZ Transit In?",
+			"answer": "The requirements for FZ Transit In are: 1. Foreign goods from any country can be brought into the free zones without being subject to customs duties or taxes, 2. The owner of the goods in the documents must be a Free Zone Licensee, 3. Required Documents: a. Master Airway Bill/House Airway Bill for Air channel, b. Master Bill Of Lading/House Bill Of Lading for Sea Channel, c. Commercial Invoice, d. Certificate of Origin"
+		},
+		{
+			"question": "Document Offices for ATA Carnet Clearance",
+			"answer": "1. Cargo Village customs Centre, 2. Jebel Ali Customs Centre, 3. Dubai International Airport Customs Centre, 4. Al Maktoum International Airport Customs Centre, 5. Hatta Customs Center, 6. Dubai Airport Terminal1- Customs Center, 7. Dubai Airport Terminal2- Customs Center, 8. Dubai Airport Terminal3- Customs Center, 9. Dubai Airport Free Zone Customs Center"
+		},
+		{
+			"question": "What are the requirements for submission of manifest?",
+			"answer": "The requirements for submission of manifest are: The manifest must be submitted by the shipmaster or Cargo Handler within (36) hours from the time the ship enters the seaport, excluding the official holidays. Any amendment or cancellation on the manifest submitted after above period shall be against a service charge of AED 5 for each bill of lading."
+		},
+		{
+			"question": "What is e-Freight Between Airports?",
+			"answer": "e-Freight Between Airports is a facility that allows for the exchange of freight and trade documents between airports. This facility is available only between the airports of the countries where e-Freight initiative is implemented and logistically managed by approved air cargo companies. Only licensed air cargo companies registered in UAE and affiliated to e-Freight initiative shall be eligible to avail this service."
+		},
+		{
+			"question": "What are the requirements for using the Electronic Airway Bill facility?",
+			"answer": "The requirements for using the Electronic Airway Bill facility are: Cargo Handling Agents or Carriers must use the facility of Electronic Data Interchange for transferring the Airway Bill Information to Customs. The Information must include all the data available in the original Airway Bill. A copy of the Airway Bill must be presented as a part of submittal of Documents in accordance with the provision of Customs Notice7- of 2010."
+		},
+		{
+			"question": "What are the requirements for transshipment cargo?",
+			"answer": "The requirements for transshipment cargo are: Any shipment may be transshipped only under supervision of the customs office. The Shipping Agents/ Cargo Handler must submit the load list within five business days from the date of Manifest submission for the purpose of reconciling the manifests of transshipped cargo."
+		},
+		{
+			"question": "What are the requirements for submitting a courier declaration?",
+			"answer": "The requirements for submitting a courier declaration are: Courier companies shall submit Customs Declarations through Mirsal2-system for all types of shipments regardless to their value. Customs Declarations for courier goods whose value is AED 1000 and below shall be submitted in the following types of declarations: Courier Import Declaration. Courier Export Declaration. Courier Transit Declaration"
+		},
+		{
+			"question": "What are the requirements for submitting a claim for refund?",
+			"answer": "The requirements for submitting a claim for refund are: The claims for refund of Deposit or releasing the Guarantee can be submitted online through Dubai Trade portal. The period in which a claim can be submitted shall be varying depending on the type of Deposits."
+		},
+		{
+			"question": "What are the requirements for settlement of declaration (non-remittance) on direct export from FZ of same customs office?",
+			"answer": "The requirements for settlement of declaration (non-remittance) on direct export from FZ of same customs office are: Goods admitted into a free zone may be exported from the customs offices of the same Free zones without presenting a cash or bank guarantee for clearance of Customs Declarations. The goods must be re-exported within 30 days from the date of lodgment of Declaration. For the settlement of the customs procedure, the Declarant must submit a copy of FZ Transit-out Declaration and a Certificate of Exit/Entry, duly signed and stamped by the competent authority to the Customs as Proof of Export from the same port attached to the exporting FZ."
+		},
+		{
+			"question": "What are the requirements for Automated Transfer of Customs Duty (ATCD)?",
+			"answer": "The requirements for Automated Transfer of Customs Duty (ATCD) are: If the Exporter is different from the original Importer, then the copy of the Import Bill shall be required. The Import Bill Reference number in the system must be a valid number. An option to amend the reference number in Export Bill is provided. The system will calculate only the exact duty payable to the GCC Country. The System will print a Due Number on Statistical Declaration. Currently this services is provided at the Offices of Customs Bureau Services If the original Declaration was cleared as Import for Re-Export or Duty Deposit, then applicable duty must be paid prior to obtaining the Due Number If the goods with destination to a GCC state are not imported directly by a GCC Importer, Customs Inspection and affixing customs seal shall be required. For new or used vehicles under HS Heading Nos. 8702 and 8703, the Due number shall be granted only if the vehicles are moved between GCC states within the period of 2 years from the date of Customs Duty Payment."
+		},
+		{
+			"question": "What is post clearance audit?",
+			"answer": "Post clearance audit is a process by which Customs verifies the accuracy of the information submitted by importers and exporters. This process is conducted after the goods have been cleared by Customs."
+		},
+		{
+			"question": "What are the requirements for retaining documents related to Customs declaration?",
+			"answer": "The documents related to Customs declaration must be retained for a period of 5 years from the date of clearance. Customs may demand all the Declaration related documents such as contracts, correspondence and other relevant documents without having to accept all that stated in the Declaration or in the Invoices. However, the documents related to the Free zone Customs Declaration shall be required to retain until the economic operations are being carried out in free zones."
+		},
+		{
+			"question": "What is Customs audit?",
+			"answer": "Customs audit is a process by which Customs verifies the accuracy of the information submitted by importers and exporters. This process is conducted by Customs officials who review the records and documentation of the importer or exporter."
+		},
+		{
+			"question": "How can I protect my intellectual property rights (IPR)?",
+			"answer": "You can protect your IPR by registering your trademarks and patents with Dubai Customs. You can also file a complaint with Dubai Customs if you believe that your IPR has been infringed."
+		},
+		{
+			"question": "What is a landing certificate?",
+			"answer": "A landing certificate is a document that proves that goods have been imported into the country. This document is often required by exporters and other authorities to verify that the goods have been imported."
+		},
+		{
+			"question": "What is a vehicle clearance certificate (VCC)?",
+			"answer": "A vehicle clearance certificate is a document that is required to register a vehicle in the country. This document is issued by Dubai Customs and proves that the vehicle has been cleared by Customs."
+		},
+		{
+			"question": "How can I request a statistical report?",
+			"answer": "You can request a statistical report by submitting a request in a prescribed form to Dubai Customs. The request must be signed and stamped by the company and must include the applicable fees."
+		},
+		{
+			"question": "What are the rules for storing passenger goods in the airport?",
+			"answer": "Passengers can store their goods in Customs stores at any of Dubai airports for a period of more than 24 hours. The maximum period of storage is three months from the date of storage. Dubai Customs has the right to sell goods in public auction if they are not taken back within this period."
+		},
+		{
+			"question": "What are the rules for selling goods by public auction?",
+			"answer": "Dubai Customs has the right to sell goods by public auction in the following cases: Seized perishable goods Goods paced in Public and Private Customs Warehouses after the expiry of their permitted storages period Un-Cleared Goods that exist in the Yards or Wharves Unclaimed Goods which are left behind at the Customs Office or Customs Warehouse Confiscated means of Transport The permitted storage periods for the various types of goods are: Three months for FCL/General/Bulk Cargo, Vehicle and other Road Moving Equipment arriving by Sea, all Goods arriving by Air and Land. One month for the FCL Refrigerated and Dangerous Cargo Three months for goods deposited in the Customs Store by the passengers. Customs shall announce the public auction and publish the list of the goods for sale in newspapers."
+		},
+		{
+			"question": "What are the Customs Declaration Fees?",
+			"answer": "The Customs Declaration Fees are as follows: - Bill Of Entry (Declaration)Types Dutiable Non-Dutiable - Export from CW to FZ 100 100 - Export from CW to ROW 100 100 - Export from Local to FZ 100 100 - Export from Local to ROW 100 100 - Export Statistical Declaration 50 50 - FZ Transit Between Dubai based FZ 80 80 - FZ Transit In 80 80 - FZ Transit In from GCC and other Emirates FZ and GCC 80 80 - Local Market FZ Transit Out 80 80 - Import for Re Export to Local from CW 100 100 - Import for Re Export to Local from FZ 100 100 - Import for Re Export to Local from ROW 100 100 - Import Statistical Declaration 70 80 - Import to CW from FZ 80 80 - Import to CW from Local (after temporary admission) 80 80 - Import to CW from ROW 80 80 - Import to Local from CW 70 80 - Import to Local from FZ 70 80 - Import to Local from ROW 70 80 - Re Export to FZ (after Import for Re Export) 100 100 - Re Export to ROW (after import for re-export) 100 100 - Return to FZ after Temporary Admission 100 100 - Return to ROW after Temporary Admission 100 100 - Temporary Admission from CW to Local 100 100 - Temporary Admission from FZ to Local 100 100 - Temporary Admission from ROW to Local 100 100 - Temporary Export from Local to FZ 100 100 - Temporary Export from Local to ROW 100 100 - Transfer of Cargo by Dubai based CW 80 80 - Transfer within a FZ 80 80 - Transit (ROW to ROW) 50 15"
+		},
+		{
+			"question": "What are the Other Customs Services Fees?",
+			"answer": "The Other Customs Services Fees are as follows: 1. e-Revenue Receipt Type Amount 2. Certificate Of Arrival 100 3. Certificate Of Discharge 100 4. Cheque Installment for Company- Per Cheque (From 1 to 4) 150 5. Cheque Installment for Company- Per Cheque (From 5 to 12) 300 6. Cheque Installment for Person- Per Cheque (From 1 to 4) 50 7. Cheque Installment for Person- Per Cheque (From 5 to 12) 75 8. Common Customs Law Book of GCC 50 9. Customs Audit Fee at client’s request 3000 10. Customs Declaration Amendment Fee 25 11. Customs Declaration Cancellation Fee 25 12. Customs Ware House Agreement Fee 25,000 13. Customs Warehouse License Fee 2000 14. DUCAMZ -Vehicle Exit Certificate 30 15. DUCAMZ-Delivery Advice & Valuation Report On Vehicle 200 16. Duplicate Copy Fee 100 17. E-Clearance–Penalty For Late Submission Of Docs 50 18. Exit /Entry Permit on Goods through Customs Gate 20 19. Exit /Entry Seal Charge 20 20. Export Manifest Charge (Sea Cargo) 20 21. Extra Manifest Charges 10 22. Gate Pass Charges 20 23. Grievance Application Fee 200 24. HS Code Charges 25 25. Inspection Charge 150 26. Inspection Seal Charges 20 27. Israeli Boycott Stamp 10 28. Kimberly Certificate Process Charges-DMCC 30 29. Knowledge Payable To HH The Ruler›s Court 20 30. Land Cargo Manifest 40 31. Loading & Unloading from Dry Port ( Japanese Cars) 100 32. Loading & Unloading from Dry Port (American Cars) 120 33. Manifest Amendment 100 34. Mirsal 2 - Fines 500 35. Monthly Statement Of Account 50 36. Non Liability Certificate 100 37. Number Plate issued for Vehicles on Temporary Admission 20 38. Nursery Collection Fees 500 39. Photocopy Charge for Customs Bill 10 40. Postponement Of PDC for Company per Cheque 200"
+		}
+	]
+}
