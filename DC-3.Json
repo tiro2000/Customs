@@ -1,0 +1,200 @@
+{
+	"questions": [
+        {
+			"question": "Who can join the Dubai Customs eCommerce Platform?",
+			"answer": "Any company involved in eCommerce activity and requires to transact with Dubai Customs directly or through their partner can join the eCommerce Platform. The Company must be registered in the Dubai Customs, Customer Registration system (ECR). The Company must have a valid Business license relevant to its Business Operations. The eCommerce Company must have an e-Commerce channel. Logistics / Courier Company who wants to join the platform must provide evidence of their association with an eCommerce company (e.g. – Signed Contract/MOU). Overseas eCommerce companies can join the platform through a locally registered Logistics Company."
+		},
+		{
+			"question": "How can a Company join the Dubai eCommerce platform?",
+			"answer": "Company involved in eCommerce shall make an online request through Dubai Trade. Client Happiness department shall verify the details and approve the request. Technical team of the Company or their technical service provider will work with Dubai Customs operational team to join the platform (This involves Blockchain base integration with Dubai Customs eCommerce platform). Refer Technical Section for further detail. Company should have proper e-archival system to archive electronic data of relevant documents e.g. Invoice, way bill etc."
+		},
+		{
+			"question": "Which information should be stored in e-archival system and for how long?",
+			"answer": "Following documents/information shall be stored in the archival system and retrieved upon request. Commercial Invoice including Country of Origin information /eCommerce Order as it produced, Certificate of Origin is required if exemption is claimed for Free Trade Agreement, Packing List if not included in the commercial invoice, Electronic Way Bill /BOL required (scanned hard copy not required). Refer Customs Notice (3/2020), Permit issued by controlling authorities for restricted items."
+		},
+		{
+			"question": "Who will approve the e-archiving system?",
+			"answer": "Request should be submitted to Client Happiness Department and a Customs team including specialists from different sections will conduct an onsite visit to verify the system for approval."
+		},
+		{
+			"question": "Which company will be responsible to e-archive the documents – Customer, 3PL or Last mile provider?",
+			"answer": "eCommerce/Logistic(3PL) companies whoever is importer on record (IOR) and broker/Courier as broker have any role in eCommerce order processing, should be responsible to e-archive the documents."
+		},
+		{
+			"question": "Is it necessary for a consignee (personal customer) to be registered in the customs system prior to the declaration processing?  Is there a requirement of importer code?",
+			"answer": "Registration/Importer code of Personal Customer is not required for eCommerce Business to Consumer (B2C) transactions. However, eCommerce company shall provide the required Personal customer details to Dubai Customs."
+		},
+		{
+			"question": "Can Logistics company register itself with distinct partners like Transportation or last mile delivery partner?",
+			"answer": "Registration with Transportation or last mile delivery partner is not required in Dubai Customs Registration. However, at the time of on-boarding of eCommerce or Logistics, Company will provide such detail that which type of transaction they wanted to do with which last mile delivery partner."
+		},
+		{
+			"question": "Can unfenced Dubai FZ license companies join the eCommerce Platform?",
+			"answer": "Yes."
+		},
+		{
+			"question": "Can Small and Medium Enterprises companies join the Platform without Blockchain?",
+			"answer": "Yes, Small and Medium Enterprises can join platform through API integration or file upload through Dubai Trade by which they are allowed to submit very limited number of eCommerce Orders."
+		},
+		{
+			"question": "What is a Basic eCommerce Order?",
+			"answer": "A Basic eCommerce Order is an order through electronic channel created by the Personal Customer on the eCommerce electronic platform. It contains details of goods bought, along with its quantity and value. It shall not contain any detail at the invoice level. (e.g. HS code; Invoice item line number etc.). This term is specific to Dubai Customs eCommerce Platform."
+		},
+		{
+			"question": "What are the various order processing scenarios supported by the eCommerce platform?",
+			"answer": "The eCommerce platform supports the following order processing scenarios: 1. One Order with One invoice with single destination 2. One Order with multiple invoices with single destination. 3. One Order with multiple invoices with multiple destinations"
+		},
+		{
+			"question": "Can one eCommerce order have one or more than one declaration. How is the eCommerce Platform designed to submit the declaration?",
+			"answer": "The eCommerce Platforms will process eCommerce Order in the following way: - One eCommerce Order One declaration: - It is for eCommerce order submission where single customer buys from a single seller. - One eCommerce Order Multiple Declarations: - It is when a single customer makes a purchase from multiple sellers in a single eCommerce Order. Each seller must submit separate invoice for that eCommerce order. eCommerce Platform automatically identifies the declaration type and create multiple declarations accordingly."
+		},
+		{
+			"question": "Are HS codes and SKU code mandatory as per Dubai Customs?",
+			"answer": "Basic eCommerce order does not require HS Code but Final eCommerce order should have both SKU and HS codes and should be provided at the time of final order submission with the invoice detail."
+		},
+		{
+			"question": "What are the mandatory details that is required for the submission of an eCommerce order?",
+			"answer": "The eCommerce order consists of basic order detail, invoice detail and Invoice line item detail along with shipping and transport information, which are essential for the submission of Customs declaration."
+		},
+		{
+			"question": "How is duty calculated for all eCommerce outbound transactions?",
+			"answer": "Duty will be calculated if invoice value is greater than De Minimis limit for each invoice line item based on HS Code. Therefore, other charges like customs duty and excise duty, VAT charges should be mentioned separately (Refer Dubai Customs Notice - 009-2021)."
+		},
+		{
+			"question": "Which invoice will be used in the eCommerce order. (Sales Invoice / Import invoice)?",
+			"answer": "For eCommerce transactions, duty will be calculated based on the sales invoice value."
+		},
+		{
+			"question": "What happens, if a certain SKU requires an inspection /approval? If the consolidated order is ready in a truck, so removing one item/order will it not delay the full truck by many hours?",
+			"answer": "If any particular SKU declaration is identified for Inspection, it has to go through regular inspection process."
+		},
+		{
+			"question": "Is it possible to include duty paid item and non-duty paid items in a single eCommerce invoice?",
+			"answer": "Please refer 3.6 for detail."
+		},
+		{
+			"question": "What is the average processing time for the eCommerce declarations? What are the attributes included in it and can upload functionality is provided to transfer the data from system?",
+			"answer": "Processing time is absolutely negligible as declaration will be automatically generated once all relevant information (eCommerce order and transport detail) is provided to the platform. As a part of on-boarding Information Model and APIs will be provided."
+		},
+		{
+			"question": "How the goods with Inspection remarks from Dubai Customs be handled for prior delivery? Inspection demand from Customs will be on single declaration with single order?",
+			"answer": "Inspection process remains the same but Dubai Customs will prioritize inspection for eCommerce declarations."
+		},
+		{
+			"question": "Will Dubai Customs demand for Inspection, in case declaration requires amendment/ cancellation due to order return?",
+			"answer": "If eCommerce declaration is amended/cancelled it won’t be automatically assigned for inspection but if that might be requested for verification on case to case basis."
+		},
+		{
+			"question": "Can declaration be amended directly as per the Customs Inspection findings?",
+			"answer": "In case amendment in the declaration is required based on Customs Inspection findings then Inspection officer will suspend the original eCommerce declaration and request customer to amend the original eCommerce order and/or transport detail to reflect the changes. After that eCommerce Platform will trigger new eCommerce declaration with respect to that amended eCommerce Order."
+		},
+		{
+			"question": "When goods are imported by Third Party Logistics Company (3PL) and goods belong to overseas eCommerce company then who should be the IOR of goods for Customs declaration processing?",
+			"answer": "3PL Company should be IOR in such case."
+		},
+		{
+			"question": "Can 3PL Company facilitate all types of declarations processing irrespective of who the IOR is on the Platform (Similar to a broker role)?",
+			"answer": "3PL company or its nominated Broker can process all their declarations in which 3PL is always IOR. If 3PL is not an IOR of goods then they cannot processes those declarations but actual IOR can process directly or through its broker only. Association with the Broker should be specified at the time of On-boarding the e-Commerce Platform."
+		},
+		{
+			"question": "Will there be always one transport detail against one eCommerce order?",
+			"answer": "There can be more than one transport detail as it depends on number of invoices available for a single eCommerce Order."
+		},
+		{
+			"question": "Is there any timeline to send delivery status message?",
+			"answer": "Delivery Status Message should be sent within a day for those goods which are delivered to customers."
+		},
+		{
+			"question": "Who can send delivery status if goods are undelivered?",
+			"answer": "In case goods are undelivered then delivery status message should be updated with status ‘undelivered’ by the last mile delivery partner."
+		},
+		{
+			"question": "Which invoice will be used in the eCommerce order. (Sales Invoice / Import invoice)?",
+			"answer": "For eCommerce transactions, duty will be calculated based on the sales invoice value."
+		},
+		{
+			"question": "What happens, if a certain SKU requires an inspection /approval? If the consolidated order is ready in a truck, so removing one item/order will it not delay the full truck by many hours?",
+			"answer": "If any particular SKU declaration is identified for Inspection, it has to go through regular inspection process."
+		},
+		{
+			"question": "Is it possible to include duty paid item and non-duty paid items in a single eCommerce invoice?",
+			"answer": "Please refer 3.6 for detail."
+		},
+		{
+			"question": "What is the average processing time for the eCommerce declarations? What are the attributes included in it and can upload functionality is provided to transfer the data from system?",
+			"answer": "Processing time is absolutely negligible as declaration will be automatically generated once all relevant information (eCommerce order and transport detail) is provided to the platform. As a part of on-boarding Information Model and APIs will be provided."
+		},
+		{
+			"question": "How the goods with Inspection remarks from Dubai Customs be handled for prior delivery?",
+			"answer": "Inspection process remains the same but Dubai Customs will prioritize inspection for eCommerce declarations."
+		},
+		{
+			"question": "Will Dubai Customs demand for Inspection, in case declaration requires amendment/ cancellation due to order return?",
+			"answer": "If eCommerce declaration is amended/cancelled it won’t be automatically assigned for inspection but if that might be requested for verification on case to case basis."
+		},
+		{
+			"question": "Can declaration be amended directly as per the Customs Inspection findings?",
+			"answer": "In case amendment in the declaration is required based on Customs Inspection findings then Inspection officer will suspend the original eCommerce declaration and request customer to amend the original eCommerce order and/or transport detail to reflect the changes. After that eCommerce Platform will trigger new eCommerce declaration with respect to that amended eCommerce Order."
+		},
+		{
+			"question": "When goods are imported by Third Party Logistics Company (3PL) and goods belong to overseas eCommerce company then who should be the IOR of goods for Customs declaration processing?",
+			"answer": "3PL Company should be IOR in such case."
+		},
+		{
+			"question": "Can 3PL Company facilitate all types of declarations processing irrespective of who the IOR is on the Platform (Similar to a broker role)?",
+			"answer": "3PL company or its nominated Broker can process all their declarations in which 3PL is always IOR. If 3PL is not an IOR of goods then they cannot processes those declarations but actual IOR can process directly or through its broker only. Association with the Broker should be specified at the time of On-boarding the e-Commerce Platform."
+		},
+		{
+			"question": "Will there be always one transport detail against one eCommerce order?",
+			"answer": "There can be more than one transport detail as it depends on number of invoices available for a single eCommerce Order."
+		},
+		{
+			"question": "What are the B2C movement scenario supported by the eCommerce Platform?",
+			"answer": "The eCommerce platform supports the following B2C movement scenarios:"
+		},
+		{
+			"question": "What is the scenario for movement from Free Zone (FZ) to Local?",
+			"answer": "The scenario for this movement uses declaration code 102, with the outbound declaration being IM2 “Import to Local from FZ”. For return, the declaration code remains 102 with full returns cancelling the original declaration through a return request and partial returns amending the original declaration through a return request."
+		},
+		{
+			"question": "What is the scenario for movement from FZ to Rest of the World (ROW)?",
+			"answer": "This movement scenario uses declaration code 302, with the outbound declaration being TS3 “FZ Transit Out”. For return, the declaration code is 302 with the inbound declaration being TS2 “FZ Transit In”."
+		},
+		{
+			"question": "What are the scenarios for movement from FZ to GCC (Gulf Cooperation Council)?",
+			"answer": "There are two scenarios for this movement: \na. With declaration code 302, the outbound declaration is TS3 “FZ Transit Out” (not through UAE Land Port). For return, the declaration code is 305 with the inbound declaration being TS5 “FZ Transit In from GCC and other Emirates FZ and GCC Local Market”.\nb. The other scenario involves the 'FZGT' declaration for “FZ to GCC Transfer” through UAE Land Port. The return declaration code is 305, with the inbound declaration being TS5 “FZ Transit In from GCC and other Emirates FZ and GCC Local Market”."
+		},
+		{
+			"question": "What is the scenario for movement from Customs Warehouse (CW) to Local?",
+			"answer": "The scenario for this movement uses declaration code 103, with the outbound declaration being IM3 “Import to local from CW”. For return, the declaration code remains 103 with full returns cancelling the original declaration through a return request and partial returns amending the original declaration through a return request."
+		},
+		{
+			"question": "What is the scenario for movement from CW to ROW?",
+			"answer": "This movement scenario uses declaration code 206, with the outbound declaration being EX7 “Export from CW to ROW”. For return, the declaration code is 108 with the inbound declaration being IM8 “Import to CW from ROW”."
+		},
+		{
+			"question": "What is the scenario for movement from CW to GCC?",
+			"answer": "The scenario for this movement uses the \"CWGT\" declaration for “CW to GCC Transfer”. For return, the declaration code is 108 with the inbound declaration being IM8 “Import to CW from ROW”."
+		},
+		{
+			"question": "What is the scenario for movement from Local to ROW?",
+			"answer": "The scenario for this movement uses declaration code 201, with the outbound declaration being EX1 “Export from Local to ROW”. For return, the declaration code is 101 with the inbound declaration being IM1 “Import to local from ROW”."
+		},
+		{
+			"question": "What is the scenario for movement from Local to GCC?",
+			"answer": "This movement scenario uses declaration code 203, with the outbound declaration being EX3 “Statistical Export”. For return, the declaration code is 104 with the inbound declaration being IM4 “Statistical Import”."
+		},
+		{
+			"question": "What is the scenario for import for re-export to ROW?",
+			"answer": "The scenario for this movement uses declaration code 208 for the outbound declaration EX9 “Re-Export to ROW. For return, the declaration codes are 101 and 305 with the inbound declaration being IM1 “Import to local from ROW” and IM5 “Import for re-export to local from ROW” respectively."
+		},
+		{
+			"question": "What is the scenario for import for re-export to GCC?",
+			"answer": "The scenario for this movement uses declaration codes 208 and 203 for the outbound declarations EX9 “Re Export to ROW and EX3 “Statistical Export”. For return, the declaration codes are 104 and 305 with the inbound declarations being IM4 “Statistical Import” and IM5 “Import for re-export to local from ROW” respectively."
+		},
+		{
+			"question": "What declarations the Platform supports ?",
+			"answer": "The platform supports inbound declarations only in return of ecommerce goods scenario. Original Cargo coming, without any return, through inbound declarations is not supported by the platform e.g.TS2, IM1 etc."
+		}
+	]
+}
